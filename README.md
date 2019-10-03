@@ -115,3 +115,6 @@ Android ist auf vielen verschiedenen Geräten verfügbar. (Tablets, Smartphones,
 
 ## 1.28 Exercise: Vector Drawables
 Vektorimages (in diesem Fall die Würfelseiten) sind als Vektorformat erst mit dem API - Level 21 verfügbar. Gradle macht aber einfach bei Geräten mit dem API - Level darunter ein png File daraus, was mehr Speicherplatz benötigt. Abhilfe, das man diese PNG Files nicht hinzufügen muss ist (`vectorDrawables.useSupportLibrary = true`). Weiteres verwendet man im Layout den App Namespace, welcher nicht von dem Android Framework direkt kommt. (`xmlns:app="http://schemas.android.com/apk/res-auto"`)
+
+## 1.29 Recap
+In dieser kurzen Lektion wird die erste Lesson zusammengefasst.
