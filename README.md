@@ -49,3 +49,6 @@ In dieser Lektion 1.9 werden die verschiedenen erzeugten Ordner näher erläuter
 * generatedJava (automatisch generiert)
 * res Folder (ressource Folder mit allen Static Kontext: Strings, Icons, Images etc.) 
 * Gradle Scripts sind für das builden zuständig
+
+## 1.10 Quiz: App Anatomy
+Ist ein Quiz über Lektion 1.10
