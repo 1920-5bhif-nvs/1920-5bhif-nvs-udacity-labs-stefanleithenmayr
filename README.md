@@ -37,3 +37,6 @@ In dieser Lektion wird gezeigt wie man einen neuen Emulator erstellt.
 ## 1.7 Running your First App on a Device
 In dieser Lektion 1.7 wird erklärt wie man seine Android Apps auf eine echtes Gerät deployed.
 (Dazu muss man in den Einstellung 7 mal auf die Buildnummer des Gerätes klicken und den USB Debugging Mode aktivieren, Verbinden mit PC)
+
+## 1.8 Student Interview: Part 1
+In dieser Lektion 1.8 werden verschiedene Menschen, die diesen Kurs absolviert haben interviewt. Der großteil war sehr begeistert und schwärmte davon das man anfangs simple Apps und später immer komplexere Apps entwickelt.
