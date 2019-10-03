@@ -75,4 +75,7 @@ In dieser Lektion 1.14 muss man das Tutorial von 1.14 nun selber machen.
 
 ## 1.15 Connecting the Button
 Als nächstes wird der Button mit der Activity Kotlin Klasse verbunden, wie das grob funktioniert wird in dieser Lektion näher erklärt.
-* Wenn man einem Button eine Id gibt, wird diese Id im R File abgespeichert und kann mittels `findViewById(R.id.roll_button)`
+* Wenn man einem Button eine Id gibt, wird diese Id im R File abgespeichert und kann mittels `findViewById(R.id.roll_button)` den Button finden
+
+## 1.16 Exercise: findViewById
+In dieser Übung wird der Text des Buttons dynamisch über die Kotlin Klasse verändert.
