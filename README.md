@@ -57,3 +57,7 @@ Ist ein Quiz über Lektion 1.10
 Zu einer Activity Kotlin Klasse gehört ein XML - File, wo das Layout der Activity "beschrieben" ist. Eine Activity ist eine Bildschirm - Seite in einer Android App.
 </br>Vereinfacht gesagt ist in der XML Datei das Layout und in der Kotlin Klasse die Logik und was die App macht. Diese beiden Files sind miteinander über Layout Inflation verbunden.
 Die "Inflation im Android Kontext ist das Parsen einer XML Datei in UI- orientierte Daten Strukturen.
+
+## 1.12 Exercise: Hello Android
+In dieser Lektion 1.12 wird der Text von "Hello World" zu "Hello Android" umgeschrieben.
+Weiteres wird etwas detailierter auf die View Elemente und Tags eingegangen.
