@@ -19,3 +19,6 @@ In Lektion 1.4 wird das Dice Roller Project angelegt.
 * Eingeben des Projektnamen: Dice Roller
 * Minimum API Level ist API 19 (Android 4.4)
 * Fertig
+
+## 1.5 Running your First App
+Man kann die neu erstellte App auf einem echten Android Gerät (Smartphone, Tablet) laufen lassen, oder auf einem Emulator.
