@@ -61,3 +61,11 @@ Die "Inflation im Android Kontext ist das Parsen einer XML Datei in UI- orientie
 ## 1.12 Exercise: Hello Android
 In dieser Lektion 1.12 wird der Text von "Hello World" zu "Hello Android" umgeschrieben.
 Weiteres wird etwas detailierter auf die View Elemente und Tags eingegangen.
+
+## 1.13 Adding the Button
+In dieser Lektion 1.13 wird gezeigt wie man einen Button zu der Android App hinzufügt.
+* android:layout_width="match_parent" - sagt aus das sich das Element an sein Root Element anpasst (beim äußeren LinearLayout ist es der Bildschirm)
+* android:layout_height="wrap_content" - sagt aus das die Höhe des Layout exakt so hoch wie der Content innerhalb des Elementes ist
+* android:orientation="vertical" - sagt aus das die Elemente unter einander angeordnet werden (Buttons,etc.), Gegenteil wäre horizontal (nebeneinander)
+* android:layout_gravity="center_vertical" Anordnung des Elements mittig
+* Hardcoded Strings im XML File sollten in ein eigenes String Ressource File ausgelagert werden (Bessere um mehrere Sprachen anzubieten und Veränderungen der strings einfacher und dynamischer zu gestalten)
