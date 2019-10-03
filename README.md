@@ -87,7 +87,10 @@ In dieser Übung wird im Kotlin Code auf einen Button Klick reagiert und ein Toa
 In dieser Übung wird nun eine Random Zahl mit Hilfe von der Klasse Random zwischen 1 und 6 erzeugt.
 
 ## 1.19 Dice Images
-Einführung in die nächste Übung, in welcher wir die Random erzeugten Zahlen nun in Images umwandeln.
+Einführung in die nächste Übung, in welcher wir die Random erzeugten Zahlen nun in Images umwandeln. (`val randomInt = Random().nextInt(6) + 1`)
 
 ## 1.20 Exercise: Adding the Image Resource
 In dieser Übung werden die Images eingebunden in den drawable Folder des Projekts.
+
+## 1.21 Exercise: Adding the ImageView
+In dieser Übung werden die Zahlen nun durch Images ersetzt, mit einer when expression.
