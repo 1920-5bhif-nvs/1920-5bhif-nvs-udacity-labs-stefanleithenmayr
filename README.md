@@ -109,3 +109,6 @@ Gradle ist das Build Tool von Android. Ist verantwortlich für das Kompilieren, 
 
 ## 1.26 Build.gradle
 Repository in Gradle ist ein externer Server, wo die Librarys heruntergeladen werden. In dem build.gradle im App Ordner werden die Grundlegenden Dinge des Projektes festgelegt. ApplicationId ist die Id, mit welcher Google die Applikation identifziert. (Es darf maximal eine App mit der selben ApplicationId auf einem Gerät installiert werden, muss eindeutig sein).
+
+## 1.27 Android Compatibility
+Android ist auf vielen verschiedenen Geräten verfügbar. (Tablets, Smartphones, Fernsehr, Uhren). API - Level sind dafür wichtig. Umso niedriger das API - Level, desto mehr Geräte können die APP benutzen. Man kann innerhalb im Code checken, welche Android Version verwendet wird. Die Wahl des API - Levels sollte gut bedacht werden. AndroidX ist Namespace von Android JetPack.
