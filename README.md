@@ -69,3 +69,6 @@ In dieser Lektion 1.13 wird gezeigt wie man einen Button zu der Android App hinz
 * android:orientation="vertical" - sagt aus das die Elemente unter einander angeordnet werden (Buttons,etc.), Gegenteil wäre horizontal (nebeneinander)
 * android:layout_gravity="center_vertical" Anordnung des Elements mittig
 * Hardcoded Strings im XML File sollten in ein eigenes String Ressource File ausgelagert werden (Bessere um mehrere Sprachen anzubieten und Veränderungen der strings einfacher und dynamischer zu gestalten)
+
+## 1.14 Exercise: Adding the Button
+In dieser Lektion 1.14 muss man das Tutorial von 1.14 nun selber machen.
