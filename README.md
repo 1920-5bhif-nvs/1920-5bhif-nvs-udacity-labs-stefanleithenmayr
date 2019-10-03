@@ -106,3 +106,6 @@ Es gibt in der XML Datei (View) verschiedene Namespaces. Zum Beispiel wenn man j
 
 ## 1.25 Introduction to Gradle
 Gradle ist das Build Tool von Android. Ist verantwortlich für das Kompilieren, Dependencies hinzufügen, Automated Tests, ... Am Schluss kommt ein APK File heraus. Es gibt verschiedene Module, welches jedes ein eigenes Gradle File besitzt.
+
+## 1.26 Build.gradle
+Repository in Gradle ist ein externer Server, wo die Librarys heruntergeladen werden. In dem build.gradle im App Ordner werden die Grundlegenden Dinge des Projektes festgelegt. ApplicationId ist die Id, mit welcher Google die Applikation identifziert. (Es darf maximal eine App mit der selben ApplicationId auf einem Gerät installiert werden, muss eindeutig sein).
