@@ -52,3 +52,8 @@ In dieser Lektion 1.9 werden die verschiedenen erzeugten Ordner näher erläuter
 
 ## 1.10 Quiz: App Anatomy
 Ist ein Quiz über Lektion 1.10
+
+## 1.11 Activity and Layout
+Zu einer Activity Kotlin Klasse gehört ein XML - File, wo das Layout der Activity "beschrieben" ist. Eine Activity ist eine Bildschirm - Seite in einer Android App.
+</br>Vereinfacht gesagt ist in der XML Datei das Layout und in der Kotlin Klasse die Logik und was die App macht. Diese beiden Files sind miteinander über Layout Inflation verbunden.
+Die "Inflation im Android Kontext ist das Parsen einer XML Datei in UI- orientierte Daten Strukturen.
