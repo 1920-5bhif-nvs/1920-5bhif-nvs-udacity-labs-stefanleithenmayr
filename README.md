@@ -82,3 +82,6 @@ In dieser Übung wird der Text des Buttons dynamisch über die Kotlin Klasse ver
 
 ## 1.17 Exercise: OnClickListener
 In dieser Übung wird im Kotlin Code auf einen Button Klick reagiert und ein Toast (Push Benachrichtigung) ausgegeben.
+
+## 1.18 Exercise: Change the Text
+In dieser Übung wird nun eine Random Zahl mit Hilfe von der Klasse Random zwischen 1 und 6 erzeugt.
