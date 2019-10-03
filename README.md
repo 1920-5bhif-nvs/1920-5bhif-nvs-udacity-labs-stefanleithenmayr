@@ -97,3 +97,6 @@ In dieser Übung werden die Zahlen nun durch Images ersetzt, mit einer when expr
 
 # 1.22 Student Interview: Part 2
 In dieser Lektion 1.22 werden wieder Kurs Absolventen interviewt, wie es Ihnen bei den ersten Schritten mit Android ging. (Einer erwähnte das die Android Dokumentation sehr gut ist)
+
+# 1.23 Exercise: Finding Views Efficiently
+In dieser Lektion 1.23 wird sich um effizienten und leserlichen Code gekümmert. findViewById ist sehr performancelastig. (Besser man erstellt lokale Variablen auf die Views). Dabei wird das Kotlin Keyword `lateinit` verwendet, welches sicherstellt das vor dem ersten Aufruf der Variable ein Wert zugewissen wird und somit nicht null ist.
