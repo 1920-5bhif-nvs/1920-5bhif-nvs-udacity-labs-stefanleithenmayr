@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/macos,windows,android,androidstudio
-# Edit at https://www.gitignore.io/?templates=macos,windows,android,androidstudio
+# Created by https://www.gitignore.io/api/linux,macos,kotlin,windows,android,androidstudio
+# Edit at https://www.gitignore.io/?templates=linux,macos,kotlin,windows,android,androidstudio
 
 ### Android ###
 # Built application files
@@ -94,6 +94,44 @@ output.json
 # with Android Studio 3.5.
 .cxx/
 
+### Kotlin ###
+# Compiled class file
+
+# Log file
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
 ### macOS ###
 # General
 .DS_Store
@@ -178,7 +216,6 @@ $RECYCLE.BIN/
 /*/*/build
 /*/*/production
 *.ipr
-*~
 *.swp
 
 # Android Patch
@@ -220,14 +257,10 @@ obj/
 .settings/
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
-*.war
-*.ear
 
 # virtual machine crash logs (Reference: http://www.java.com/en/download/help/error_hotspot.xml)
-hs_err_pid*
 
 ## Plugin-specific files:
 
@@ -250,4 +283,5 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
-# End of https://www.gitignore.io/api/macos,windows,android,androidstudio
+# End of https://www.gitignore.io/api/linux,macos,kotlin,windows,android,androidstudio
+

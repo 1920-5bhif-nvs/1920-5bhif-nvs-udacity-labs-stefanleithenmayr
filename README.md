@@ -10,3 +10,12 @@ In Lektion 1.2 soll man Android Studio installieren und es wird einem erklärt d
 
 ## 1.3 Installing Android Studio
 In Lektion 1.3 installiert man nun Android Studio und falls nötig den Android Emulator.
+
+## 1.4 Creating the Dice Roller Project
+In Lektion 1.4 wird das Dice Roller Project angelegt. 
+
+* Start a new Android Studio project
+* Auswählen von "Empty Activity"
+* Eingeben des Projektnamen: Dice Roller
+* Minimum API Level ist API 19 (Android 4.4)
+* Fertig
