@@ -40,3 +40,12 @@ In dieser Lektion 1.7 wird erklärt wie man seine Android Apps auf eine echtes G
 
 ## 1.8 Student Interview: Part 1
 In dieser Lektion 1.8 werden verschiedene Menschen, die diesen Kurs absolviert haben interviewt. Der großteil war sehr begeistert und schwärmte davon das man anfangs simple Apps und später immer komplexere Apps entwickelt.
+
+## 1.9 Main App Anatomy
+In dieser Lektion 1.9 werden die verschiedenen erzeugten Ordner näher erläutert. Man sollte darauf achten, dass man im Project Ordner mit den Datein / Ordnern im Android Studio ganz oben die Option Android ausgewählt hat.
+
+* manifest Folder (AndroidManiFest.xml mit allen Details zur App, Startpunkt,etc. wird festgelegt)
+* Java Folder (two test folders and source file folder with MainActivity)
+* generatedJava (automatisch generiert)
+* res Folder (ressource Folder mit allen Static Kontext: Strings, Icons, Images etc.) 
+* Gradle Scripts sind für das builden zuständig
