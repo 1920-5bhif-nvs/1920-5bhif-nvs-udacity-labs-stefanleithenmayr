@@ -95,8 +95,12 @@ In dieser Übung werden die Images eingebunden in den drawable Folder des Projek
 ## 1.21 Exercise: Adding the ImageView
 In dieser Übung werden die Zahlen nun durch Images ersetzt, mit einer when expression.
 
-# 1.22 Student Interview: Part 2
+## 1.22 Student Interview: Part 2
 In dieser Lektion 1.22 werden wieder Kurs Absolventen interviewt, wie es Ihnen bei den ersten Schritten mit Android ging. (Einer erwähnte das die Android Dokumentation sehr gut ist)
 
-# 1.23 Exercise: Finding Views Efficiently
+## 1.23 Exercise: Finding Views Efficiently
 In dieser Lektion 1.23 wird sich um effizienten und leserlichen Code gekümmert. findViewById ist sehr performancelastig. (Besser man erstellt lokale Variablen auf die Views). Dabei wird das Kotlin Keyword `lateinit` verwendet, welches sicherstellt das vor dem ersten Aufruf der Variable ein Wert zugewissen wird und somit nicht null ist.
+
+## 1.24 Namespaces
+Es gibt in der XML Datei (View) verschiedene Namespaces. Zum Beispiel wenn man jetzt in der Preview ein Foto angezeigt haben möchte, aber später in der echten Android App nicht mehr kann man den Namespace tools verwenden (`tools:src="@drawable/dice_1"`), welcher nur für die Preview gedacht ist.
+
