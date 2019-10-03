@@ -85,3 +85,6 @@ In dieser Übung wird im Kotlin Code auf einen Button Klick reagiert und ein Toa
 
 ## 1.18 Exercise: Change the Text
 In dieser Übung wird nun eine Random Zahl mit Hilfe von der Klasse Random zwischen 1 und 6 erzeugt.
+
+## 1.19 Dice Images
+Einführung in die nächste Übung, in welcher wir die Random erzeugten Zahlen nun in Images umwandeln.
