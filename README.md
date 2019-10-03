@@ -88,3 +88,6 @@ In dieser Übung wird nun eine Random Zahl mit Hilfe von der Klasse Random zwisc
 
 ## 1.19 Dice Images
 Einführung in die nächste Übung, in welcher wir die Random erzeugten Zahlen nun in Images umwandeln.
+
+## 1.20 Exercise: Adding the Image Resource
+In dieser Übung werden die Images eingebunden in den drawable Folder des Projekts.
