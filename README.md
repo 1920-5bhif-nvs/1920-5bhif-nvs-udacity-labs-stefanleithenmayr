@@ -112,3 +112,6 @@ Repository in Gradle ist ein externer Server, wo die Librarys heruntergeladen we
 
 ## 1.27 Android Compatibility
 Android ist auf vielen verschiedenen Geräten verfügbar. (Tablets, Smartphones, Fernsehr, Uhren). API - Level sind dafür wichtig. Umso niedriger das API - Level, desto mehr Geräte können die APP benutzen. Man kann innerhalb im Code checken, welche Android Version verwendet wird. Die Wahl des API - Levels sollte gut bedacht werden. AndroidX ist Namespace von Android JetPack.
+
+## 1.28 Exercise: Vector Drawables
+Vektorimages (in diesem Fall die Würfelseiten) sind als Vektorformat erst mit dem API - Level 21 verfügbar. Gradle macht aber einfach bei Geräten mit dem API - Level darunter ein png File daraus, was mehr Speicherplatz benötigt. Abhilfe, das man diese PNG Files nicht hinzufügen muss ist (`vectorDrawables.useSupportLibrary = true`). Weiteres verwendet man im Layout den App Namespace, welcher nicht von dem Android Framework direkt kommt. (`xmlns:app="http://schemas.android.com/apk/res-auto"`)
