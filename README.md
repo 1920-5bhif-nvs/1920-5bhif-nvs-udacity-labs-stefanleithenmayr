@@ -79,3 +79,6 @@ Als nächstes wird der Button mit der Activity Kotlin Klasse verbunden, wie das 
 
 ## 1.16 Exercise: findViewById
 In dieser Übung wird der Text des Buttons dynamisch über die Kotlin Klasse verändert.
+
+## 1.17 Exercise: OnClickListener
+In dieser Übung wird im Kotlin Code auf einen Button Klick reagiert und ein Toast (Push Benachrichtigung) ausgegeben.
