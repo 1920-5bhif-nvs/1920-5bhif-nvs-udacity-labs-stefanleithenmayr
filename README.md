@@ -94,3 +94,6 @@ In dieser Übung werden die Images eingebunden in den drawable Folder des Projek
 
 ## 1.21 Exercise: Adding the ImageView
 In dieser Übung werden die Zahlen nun durch Images ersetzt, mit einer when expression.
+
+# 1.22 Student Interview: Part 2
+In dieser Lektion 1.22 werden wieder Kurs Absolventen interviewt, wie es Ihnen bei den ersten Schritten mit Android ging. (Einer erwähnte das die Android Dokumentation sehr gut ist)
