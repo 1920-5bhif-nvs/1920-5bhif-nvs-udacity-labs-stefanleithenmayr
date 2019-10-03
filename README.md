@@ -22,3 +22,14 @@ In Lektion 1.4 wird das Dice Roller Project angelegt.
 
 ## 1.5 Running your First App
 Man kann die neu erstellte App auf einem echten Android Gerät (Smartphone, Tablet) laufen lassen, oder auf einem Emulator.
+
+## 1.6 Running your First App on an Emulator
+In dieser Lektion wird gezeigt wie man einen neuen Emulator erstellt.
+
+
+* AVD (Android Virtual Device) Manager öffnen
+    * Im AVD Manager kann man links die verschiedenen Kategorien sehen: Fernsehr, Smartphone, Uhren, Tablets
+* Create Virtual Device Button anklicken
+* In der Kategorie "Phone" wird das Pixel 2 ausgewählt, welches den Play Store verfügbar hat
+* Anschließend muss man eine Android API Version wählen (in diesem Fall wird 28 - PIE gewählt) und downloaden
+* Nun startet man die APP im Emulator und Hello World erscheint
