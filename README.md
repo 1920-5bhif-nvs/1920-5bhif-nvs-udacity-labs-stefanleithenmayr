@@ -122,3 +122,6 @@ In dieser kurzen Lektion wird die erste Lesson zusammengefasst.
 # Lesson 2
 ## Leson 2.1 Art with Aleks
 Die Lektion 2.1 ist nur eine kurze Einführung. Im groben geht es um Constraintlayouts, und was man damit machen kann (Horizontale und Vertikale Anordnung von Elementen).
+
+## 2.2 Introduction
+Die Lektion 2.2 ist eine weitere Einführung, um was es geht in dieser Lesson, nämlich Layouts. Weiteres wird es um Databinding gehen.
