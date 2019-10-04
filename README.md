@@ -118,3 +118,7 @@ Vektorimages (in diesem Fall die Würfelseiten) sind als Vektorformat erst mit d
 
 ## 1.29 Recap
 In dieser kurzen Lektion wird die erste Lesson zusammengefasst.
+
+# Lesson 2
+## Leson 2.1 Art with Aleks
+Die Lektion 2.1 ist nur eine kurze Einführung. Im groben geht es um Constraintlayouts, und was man damit machen kann (Horizontale und Vertikale Anordnung von Elementen).
