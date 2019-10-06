@@ -129,3 +129,6 @@ Die Lektion 2.2 ist eine weitere Einführung, um was es geht in dieser Lesson, n
 ## 2.3 View Groups & View Hierarchy
 Alle Element leiten von der View Klasse ab, welche eine Höhe, eine Breite und einen Hintergrund haben. (Beispiel. Textview, Button, Colour Pickers, etc.) Man kann auch seine eigene Custom View implementieren.
 Einheit: `Density Independent Pixel (dp)` (automatische Konvertierung auf Android Geräten). Layouts fassen mehrere Views zusammen. Umso mehr Layouts man hat umso schlechter ist die Performance.
+
+## 2.4 Exercise: Create the AboutMe Project
+In dieser Lektion wird lediglich das neue Projekt "AboutMe" angelegt.
