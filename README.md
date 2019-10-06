@@ -132,3 +132,6 @@ Einheit: `Density Independent Pixel (dp)` (automatische Konvertierung auf Androi
 
 ## 2.4 Exercise: Create the AboutMe Project
 In dieser Lektion wird lediglich das neue Projekt "AboutMe" angelegt.
+
+## 2.5 Exercise: Create the Layout File
+In dieser Lektion wird das Android Layout File mit Hilfe von Android Studio erstellt. Layout Files werden im res/layout Ordner gespeichert. Um ein neues Layout File hinzuzufügen klickt man auf den res Ordner mit der rechten Maustaste und wählt New/Android Resource File. Anschließend vergibt man einen Namen und wählt unter Resource type Layout aus.
