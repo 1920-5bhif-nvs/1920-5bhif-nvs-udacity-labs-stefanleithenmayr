@@ -156,3 +156,8 @@ Als nächstes wird zu dieser App ein User Input hinzufügt, in Form einer Plain 
 
 ## 2.12 Adding a Done Button to Accept Text Input
 In dieser Lektion wird ein neuer Button hinzugefügt und gestylt.
+
+## 2.13 Exercise: Add EditText, Done Button, ClickHandler
+In dieser Lektion wird der Button regestriert und welche Logik anschließend ausgeführt werden soll. `findViewById<Button>(R.id.done_button).setOnClickListener {
+   addNickname(it)
+}` - so kann man einen Button regestrieren
