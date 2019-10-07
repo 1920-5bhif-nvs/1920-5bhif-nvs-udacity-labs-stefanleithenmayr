@@ -150,3 +150,6 @@ In dieser Lektion wird ein ImageView eingefügt.
 
 ## 2.10 Exercise: Add a ScrollView
 Als nächstes werden einige persönliche Informationen hinzugefügt, wo es nicht schlecht wäre, wenn man scrollen könnte. In Android gibt es dafür eine ScrollView, bei welcher man maximal ein Unterlayout hinzufügen kann. 
+
+## 2.11 Adding an EditText for Text Input
+Als nächstes wird zu dieser App ein User Input hinzufügt, in Form einer Plain Text Box. Anschließend wird die Validierung hergezeigt und das man einen Hint (Tipp) vergeben kann.
