@@ -144,3 +144,6 @@ In der Lektion 2.7 wird ein TextView Element zum xml File hinzugefügt. Anschlie
 
 ## 2.8 Styling a TextView
 In dieser Sektion wird die TextView mit Hilfe von Padding ausgerichtet.Padding zwischen Content und Border. Margin ist außerhalb der Border. Weiteres wird ein anderes Font eingestellt (Roboto Font - Regular). Weiteres wird gezeigt wie man den Style eines Layout extrahieren kann. Rechtsklick auf eine View Komponente - Refactor - Extract Style
+
+## 2.9 Exercise: Add a TextView, ImageView, and Styling
+In dieser Lektion wird ein ImageView eingefügt.
