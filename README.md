@@ -138,3 +138,6 @@ In dieser Lektion wird das Android Layout File mit Hilfe von Android Studio erst
 
 ## 2.6 Layout Editor Basics
 In dieser Lektion wird der visuelle Designer zum Erstellen von View gezeigt und die Basics erklärt. In der Component Tree werden alle Elemente (Kind + Eltern Element angezeigt). Abschließend gibt es ein kleines Quiz.
+
+## 2.7 Adding a TextView
+In der Lektion 2.7 wird ein TextView Element zum xml File hinzugefügt. Anschließend werden einige Attribute gesetzt, wie zum Beispiel eine ID, oder es wird gezeigt wie man den Text nicht als hardgecodeden String in das XML File schreibt sondern ein extra string ressource file anlegt.
