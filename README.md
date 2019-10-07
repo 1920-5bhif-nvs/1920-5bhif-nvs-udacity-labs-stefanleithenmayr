@@ -141,3 +141,6 @@ In dieser Lektion wird der visuelle Designer zum Erstellen von View gezeigt und 
 
 ## 2.7 Adding a TextView
 In der Lektion 2.7 wird ein TextView Element zum xml File hinzugefügt. Anschließend werden einige Attribute gesetzt, wie zum Beispiel eine ID, oder es wird gezeigt wie man den Text nicht als hardgecodeden String in das XML File schreibt sondern ein extra string ressource file anlegt.
+
+## 2.8 Styling a TextView
+In dieser Sektion wird die TextView mit Hilfe von Padding ausgerichtet.Padding zwischen Content und Border. Margin ist außerhalb der Border. Weiteres wird ein anderes Font eingestellt (Roboto Font - Regular). Weiteres wird gezeigt wie man den Style eines Layout extrahieren kann. Rechtsklick auf eine View Komponente - Refactor - Extract Style
