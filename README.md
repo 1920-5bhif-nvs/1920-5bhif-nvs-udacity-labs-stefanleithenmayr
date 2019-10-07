@@ -153,3 +153,6 @@ Als nächstes werden einige persönliche Informationen hinzugefügt, wo es nicht
 
 ## 2.11 Adding an EditText for Text Input
 Als nächstes wird zu dieser App ein User Input hinzufügt, in Form einer Plain Text Box. Anschließend wird die Validierung hergezeigt und das man einen Hint (Tipp) vergeben kann.
+
+## 2.12 Adding a Done Button to Accept Text Input
+In dieser Lektion wird ein neuer Button hinzugefügt und gestylt.
