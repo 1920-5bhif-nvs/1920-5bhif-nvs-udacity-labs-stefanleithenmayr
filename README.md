@@ -147,3 +147,6 @@ In dieser Sektion wird die TextView mit Hilfe von Padding ausgerichtet.Padding z
 
 ## 2.9 Exercise: Add a TextView, ImageView, and Styling
 In dieser Lektion wird ein ImageView eingefügt.
+
+## 2.10 Exercise: Add a ScrollView
+Als nächstes werden einige persönliche Informationen hinzugefügt, wo es nicht schlecht wäre, wenn man scrollen könnte. In Android gibt es dafür eine ScrollView, bei welcher man maximal ein Unterlayout hinzufügen kann. 
