@@ -164,3 +164,8 @@ In dieser Lektion wird der Button regestriert und welche Logik anschließend aus
 
 ## 2.14 Data Binding
 Das direkte zugreifen auf ein Element mittels findViewById kann in großen komplexen Projekten zu Performance Problemen führen. Um das zu vermeiden kann man mit Hilfe von Data Binding, sogenannte Binding Objekte zur Laufzeit erstellen lassen.
+
+## 2.15 Data Binding: Views
+Data Binding muss erstmals aktiviert werden im build.gradle File. Dazu `dataBinding {
+        enabled = true
+    }` einfügen. Anschließend synct man das Projekt einmal. Nun wird zum Layout ein laout Tag hinzugefügt. Anschließend kann man in der MainActivity Kotlin Klasse ein Binding Objekt erstellen: `private lateinit var binding: ActivityMainBinding`
