@@ -160,4 +160,7 @@ In dieser Lektion wird ein neuer Button hinzugefügt und gestylt.
 ## 2.13 Exercise: Add EditText, Done Button, ClickHandler
 In dieser Lektion wird der Button regestriert und welche Logik anschließend ausgeführt werden soll. `findViewById<Button>(R.id.done_button).setOnClickListener {
    addNickname(it)
-}` - so kann man einen Button regestrieren
+}` - so kann man einen Button regestrieren.
+
+## 2.14 Data Binding
+Das direkte zugreifen auf ein Element mittels findViewById kann in großen komplexen Projekten zu Performance Problemen führen. Um das zu vermeiden kann man mit Hilfe von Data Binding, sogenannte Binding Objekte zur Laufzeit erstellen lassen.
