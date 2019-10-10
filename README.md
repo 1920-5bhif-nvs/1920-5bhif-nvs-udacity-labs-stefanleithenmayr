@@ -178,3 +178,6 @@ Data - Block im Layout File:
                 name="myName"
                 type="com.example.aboutme.MyName" />
     </data>`
+
+## 2.17 Exercise: Implement Data Binding
+In dieser Lektion wird das gelernte aus den letzten Lektionen nun am Projekt umgesetzt.
