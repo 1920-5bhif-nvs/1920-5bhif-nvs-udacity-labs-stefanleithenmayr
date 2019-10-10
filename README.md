@@ -190,3 +190,7 @@ Was ist ein Constraint? - Ein Constraint ist eine Verbindung oder eine Ausrichtu
 
 ## 2.20 Creating ColorMyViews Project
 In dieser Lektion wird das ColorMyViews Projekt angelegt.
+
+## 2.21 Exercise: Create ColorMyViews Project and One Box
+Als erstes werden in dem neuen Projekt, im Layout File - Autoconnect ausgeschaltet. (im Designer - auf das Hufeisensymbol klicken) - da die Constraints manuell hinzugefügt werden. Weiteres werden noch einige Adaptierungen durchgeführt und gezeigt wie man die Display - Auflösung umstellen kann.
+
