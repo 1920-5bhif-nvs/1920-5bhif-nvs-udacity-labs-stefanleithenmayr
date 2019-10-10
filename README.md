@@ -181,3 +181,6 @@ Data - Block im Layout File:
 
 ## 2.17 Exercise: Implement Data Binding
 In dieser Lektion wird das gelernte aus den letzten Lektionen nun am Projekt umgesetzt.
+
+## 2.18 Google Interview: John Hoford and Nicolas Roard
+In dieser Lektion werden wieder Interviews durchgeführt.
