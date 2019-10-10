@@ -187,3 +187,6 @@ In dieser Lektion werden wieder Interviews durchgeführt.
 
 ## 2.19 Constraint Layout: ColorMyViews App
 Was ist ein Constraint? - Ein Constraint ist eine Verbindung oder eine Ausrichtung zu einem anderen UI - Element, zum Eltern - Layout oder zu einer unsichtbaren (Richt-)Linie. Constraint - Layout haben viele Vorteile: Responsive, Optimiert, Free-Form
+
+## 2.20 Creating ColorMyViews Project
+In dieser Lektion wird das ColorMyViews Projekt angelegt.
