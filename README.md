@@ -184,3 +184,6 @@ In dieser Lektion wird das gelernte aus den letzten Lektionen nun am Projekt umg
 
 ## 2.18 Google Interview: John Hoford and Nicolas Roard
 In dieser Lektion werden wieder Interviews durchgeführt.
+
+## 2.19 Constraint Layout: ColorMyViews App
+Was ist ein Constraint? - Ein Constraint ist eine Verbindung oder eine Ausrichtung zu einem anderen UI - Element, zum Eltern - Layout oder zu einer unsichtbaren (Richt-)Linie. Constraint - Layout haben viele Vorteile: Responsive, Optimiert, Free-Form
