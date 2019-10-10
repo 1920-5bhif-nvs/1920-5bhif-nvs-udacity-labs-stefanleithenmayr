@@ -194,5 +194,8 @@ In dieser Lektion wird das ColorMyViews Projekt angelegt.
 ## 2.21 Exercise: Create ColorMyViews Project and One Box
 Als erstes werden in dem neuen Projekt, im Layout File - Autoconnect ausgeschaltet. (im Designer - auf das Hufeisensymbol klicken) - da die Constraints manuell hinzugefügt werden. Weiteres werden noch einige Adaptierungen durchgeführt und gezeigt wie man die Display - Auflösung umstellen kann.
 
-# 2.22 Constraints
+## 2.22 Constraints
 In dieser Lektion wird nochmals etwas näher auf Constraints eingegangen. In der absoluten Position wird mit layout_margin gearbeitet. Relative Margins sind immer besser (responsive).
+
+## 2.23 Ratios
+In dieser Lektion geht es um Verhältnisse. (Zum Beispiel: Höhe ist 2 zu 1 zur Breite) Somit muss man keine Höhen und Breiten hard codieren.
