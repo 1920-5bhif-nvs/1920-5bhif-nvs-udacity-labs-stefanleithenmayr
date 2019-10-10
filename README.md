@@ -169,3 +169,12 @@ Das direkte zugreifen auf ein Element mittels findViewById kann in großen kompl
 Data Binding muss erstmals aktiviert werden im build.gradle File. Dazu `dataBinding {
         enabled = true
     }` einfügen. Anschließend synct man das Projekt einmal. Nun wird zum Layout ein laout Tag hinzugefügt. Anschließend kann man in der MainActivity Kotlin Klasse ein Binding Objekt erstellen: `private lateinit var binding: ActivityMainBinding`
+
+## 2.16 Data Binding: Data
+Data Binding macht den Code lesbarer und performanter. In dieser Lektion wird das erste mal gezeigt wie man in Kotlin eine Data Klasse anlegt.
+Data - Block im Layout File:
+    `<data>
+        <variable
+                name="myName"
+                type="com.example.aboutme.MyName" />
+    </data>`
