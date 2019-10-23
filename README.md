@@ -202,3 +202,6 @@ In dieser Lektion geht es um Verhältnisse. (Zum Beispiel: Höhe ist 2 zu 1 zur 
 
 ## 2.24 Chaining
 Chaines verbinden horizontale oder vertikale Views. Ein Spread Chain lasst zwischen den View Elementen immer gleich viel Abstand. A Spread Inside Chain, nutzt den ganzen Platz aus. Weighted Chain füllt den ganzen Platz mit den Views aus. Packed Chain with Bios ist so kompakt wie möglich.
+
+## 2.25 
+In dieser Übung, werden nun zum Miniprojekt zwei Constraints hinzugefügt.
