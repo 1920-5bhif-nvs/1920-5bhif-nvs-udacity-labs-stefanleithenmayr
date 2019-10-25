@@ -319,3 +319,6 @@ Prinzipiell kann man während jedem Fragment den Navigation Drawer herausswipen.
 
 ## 3.28 - Exercise: Animation with Navigation
 In dieser Übungen werden noch ViewAnimations hinzugefügt. Alpha beschreibt dabei wie transparent etwas ist. (0% ist es unsichtbar)
+
+## 3.29 - Quiz: Animation Attributes
+Quiz!
