@@ -290,3 +290,6 @@ Quiz!
 ## 3.19 - Exercise: Adding Safe Arguments
 Nun werden Argumente zwischen zwei Fragmenten übergeben. (Anzahl der Fragen, Anzahl der richtigen Fragen)
 Argumente werden im Android Bundle übergeben (HashMap (Key - Value)). Um zu vermeiden das es zu Bugs aufgrund von falschen Datentyp kommt, gibt es SafeArgs.
+
+## 3.20 - Why do we have Safe Arguments?
+Quiz!
