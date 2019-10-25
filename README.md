@@ -265,3 +265,6 @@ Die Prinzipien von 3.8 werden nochmals wiederholt.
 
 ## 3.11 - Exercise: Conditional Navigation
 In dieser Lektion wird ein Spiel gewonnen und Spiel verloren Fragment hinzugefügt.
+
+## 3.12 - Exercise: Back Stack Manipulation
+Das Problem ist wenn man am Android Handy auf die Zurücktaste klickt navigiert man einfach eine Frage zurück und kann sie richtig beantworten. Um das zu vermeiden muss man das Fragment vom Backstack löschen.
