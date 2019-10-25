@@ -215,3 +215,5 @@ In dieser Lektion werden zu den Buttons nun Klick Event Handler hinzugefügt. Wi
 ## 2.28 - Baseline Constraint
 In dieser Lektion wird gezeigt wie man Baseline Constraints hinzufügt. Weiteres werden zwei neue Textboxen hinzugefügt.
  
+ ## 2.29 - Exercise: Add Baseline Constraint and Button Chain
+ Abschließend werden noch Buttons mit Event Handlern hinzugefügt, um die Boxes mit den Buttons einzufärben.
