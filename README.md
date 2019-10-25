@@ -268,3 +268,9 @@ In dieser Lektion wird ein Spiel gewonnen und Spiel verloren Fragment hinzugefü
 
 ## 3.12 - Exercise: Back Stack Manipulation
 Das Problem ist wenn man am Android Handy auf die Zurücktaste klickt navigiert man einfach eine Frage zurück und kann sie richtig beantworten. Um das zu vermeiden muss man das Fragment vom Backstack löschen.
+
+## 3.13 - Quiz: Back Stack Manipulation
+Quiz!
+
+## 3.14 - Exercise: Adding Support for the Up Button
+Der Up - Button ist oben links (nicht immer) um zurück zu navigieren. In dieser Lektion wird dieser implementiert.
