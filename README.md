@@ -280,3 +280,6 @@ Quiz!
 
 ## 3.16 - Google Interview: Ian Lake
 Interview!
+
+## 3.17 - Exercise: Adding a Menu
+Nun wird ein "About" Tab (Fragment) im Overflow Menü hinzugefügt.
