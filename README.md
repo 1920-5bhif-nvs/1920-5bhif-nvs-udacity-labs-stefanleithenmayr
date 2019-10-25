@@ -293,3 +293,6 @@ Argumente werden im Android Bundle übergeben (HashMap (Key - Value)). Um zu ver
 
 ## 3.20 - Why do we have Safe Arguments?
 Quiz!
+
+## 3.21 - Intents and Sharing
+Nun geht es darum zum Beispiel die Kamera des Gerätes zu verwenden oder auf die Kontakte zuzugreifen. Diese erfolgt durch sogenannte Intents. Mit Sharing kann man Dinge über Social Networks, Emails, etc. mit anderen Usern teilen.
