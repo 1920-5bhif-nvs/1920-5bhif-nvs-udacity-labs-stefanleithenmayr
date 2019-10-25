@@ -254,7 +254,11 @@ In dieser Übung wird ein Navigation Graph erstellt.
 * Navigation File erstellen im res Ordner, um ein Fragment zu erstellen.
 * In der navigation.xml das Fragment mit dem Nav Host Fragment (Parent Element) verbinden.
 Wechseln eines Fragments:
-`
+````
 binding.playButton.setOnClickListener (
             Navigation.createNavigateOnClickListener(R.id.action_titleFragment_to_gameFragment)
-        )`
+        )
+````
+
+## 3.10 - Principles of Navigation
+Die Prinzipien von 3.8 werden nochmals wiederholt.
