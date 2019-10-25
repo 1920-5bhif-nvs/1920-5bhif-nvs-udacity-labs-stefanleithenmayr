@@ -316,3 +316,6 @@ Quiz!
 
 ## 3.27 - Exercise: Using Navigation Listeners
 Prinzipiell kann man während jedem Fragment den Navigation Drawer herausswipen. Während dem Spiel möchte man dies allerdings nicht. In dieser Übung wird gezeigt, wie das verhindert wird.
+
+## 3.28 - Exercise: Animation with Navigation
+In dieser Übungen werden noch ViewAnimations hinzugefügt. Alpha beschreibt dabei wie transparent etwas ist. (0% ist es unsichtbar)
