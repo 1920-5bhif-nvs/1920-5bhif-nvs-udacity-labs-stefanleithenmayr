@@ -46,8 +46,8 @@ class GameWonFragment : Fragment() {
         super.onCreateOptionsMenu(menu, inflater)
         inflater.inflate(R.menu.winner_menu, menu)
         //error handling
-        if(null == getShareIntent().resolveActivity(activity!!.packageManager)){
-            menu?.findItem(R.id.share)?.isVisible = false
+        if(null == getShareIntent()?.resolveActivity(activity!!.packageManager)){
+            menu.findItem(R.id.share)?.isVisible = false
         }
     }
 

@@ -302,5 +302,8 @@ Quiz!
 * Explizit Intents: Starten eine Aktivität basierend auf seinem Klassennamen
 * Implicit Intents: Starten eine Aktivität basierend auf den Parametern, wie Actions, Daten und Datentypen
 
-# 3.23 - Exercise: Adding Sharing with an Intent
+## 3.23 - Exercise: Adding Sharing with an Intent
 Nach dieser Übung/Lektion kann man nun das Ergebnis mit Hilfe von Sharing und Intents mit jemanden anderen teilen.
+
+## 3.24 - Exercise: Adding the Navigation Drawer
+In dieser Übung wird der Navigation Drawer hinzugefügt, welcher von links/rechts herausklappt um besser zu navigieren. Man kann darauf zugreifen über das Hamburger Item oder indem man von links nach rechts swipt. Er ist Teil der Material Library.
