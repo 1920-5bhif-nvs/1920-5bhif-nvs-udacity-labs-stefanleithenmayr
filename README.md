@@ -307,3 +307,6 @@ Nach dieser Übung/Lektion kann man nun das Ergebnis mit Hilfe von Sharing und I
 
 ## 3.24 - Exercise: Adding the Navigation Drawer
 In dieser Übung wird der Navigation Drawer hinzugefügt, welcher von links/rechts herausklappt um besser zu navigieren. Man kann darauf zugreifen über das Hamburger Item oder indem man von links nach rechts swipt. Er ist Teil der Material Library.
+
+## 3.25 - Summary of Navigation
+Zusammenfassung dieser Lektion.
