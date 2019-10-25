@@ -248,3 +248,13 @@ Prinzipien von der Navigation in Android:
 * Es gibt immer einen Startpunkt (Startscreen), sollte auch der letzte Screen sein. 
 * Man sollte immer zurück navigieren können.
 * Up Button sollte immer da sein (zum zurück navigieren)
+
+## 3.9 - Exercise: Let’s Navigate Already
+In dieser Übung wird ein Navigation Graph erstellt.
+* Navigation File erstellen im res Ordner, um ein Fragment zu erstellen.
+* In der navigation.xml das Fragment mit dem Nav Host Fragment (Parent Element) verbinden.
+Wechseln eines Fragments:
+`
+binding.playButton.setOnClickListener (
+            Navigation.createNavigateOnClickListener(R.id.action_titleFragment_to_gameFragment)
+        )`
