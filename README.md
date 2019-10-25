@@ -236,3 +236,6 @@ In dieser Lektion wird gezeigt wie man Baseline Constraints hinzufügt. Weiteres
 
  ## 3.5 - Quiz: Fragment Basics
  Quiz!
+
+## 3.6 - Exercise: Project Tour
+Im AndroidManifest.xml ist die Start Activity festgelegt. Im /res Ordner sind animationen, drawables und layouts, menues gespeichert.
