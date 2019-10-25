@@ -242,3 +242,9 @@ Im AndroidManifest.xml ist die Start Activity festgelegt. Im /res Ordner sind an
 
 ## 3.7 - Exercise: Creating and Adding a Fragment
 In dieser Übung wird ein Fragment erstellt und zum main layout hinzugefügt.
+
+## 3.8 - Navigation Component
+Prinzipien von der Navigation in Android: 
+* Es gibt immer einen Startpunkt (Startscreen), sollte auch der letzte Screen sein. 
+* Man sollte immer zurück navigieren können.
+* Up Button sollte immer da sein (zum zurück navigieren)
