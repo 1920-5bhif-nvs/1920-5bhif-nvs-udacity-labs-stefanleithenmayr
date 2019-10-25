@@ -286,3 +286,7 @@ Nun wird ein "About" Tab (Fragment) im Overflow Menü hinzugefügt.
 
 ## 3.18 - Quiz: Matching Menu Attributes
 Quiz!
+
+## 3.19 - Exercise: Adding Safe Arguments
+Nun werden Argumente zwischen zwei Fragmenten übergeben. (Anzahl der Fragen, Anzahl der richtigen Fragen)
+Argumente werden im Android Bundle übergeben (HashMap (Key - Value)). Um zu vermeiden das es zu Bugs aufgrund von falschen Datentyp kommt, gibt es SafeArgs.
