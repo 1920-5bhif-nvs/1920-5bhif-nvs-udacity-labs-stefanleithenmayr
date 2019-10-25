@@ -296,3 +296,8 @@ Quiz!
 
 ## 3.21 - Intents and Sharing
 Nun geht es darum zum Beispiel die Kamera des Gerätes zu verwenden oder auf die Kontakte zuzugreifen. Diese erfolgt durch sogenannte Intents. Mit Sharing kann man Dinge über Social Networks, Emails, etc. mit anderen Usern teilen.
+
+## 3.22 - Quiz: Explicit vs Implicit Intents
+Quiz!
+* Explizit Intents: Starten eine Aktivität basierend auf seinem Klassennamen
+* Implicit Intents: Starten eine Aktivität basierend auf den Parametern, wie Actions, Daten und Datentypen
