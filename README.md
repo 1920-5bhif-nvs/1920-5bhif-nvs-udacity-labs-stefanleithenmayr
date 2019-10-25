@@ -313,3 +313,6 @@ Zusammenfassung dieser Lektion.
 
 ## 3.26 - Quiz: How to Navigate
 Quiz!
+
+## 3.27 - Exercise: Using Navigation Listeners
+Prinzipiell kann man während jedem Fragment den Navigation Drawer herausswipen. Während dem Spiel möchte man dies allerdings nicht. In dieser Übung wird gezeigt, wie das verhindert wird.
