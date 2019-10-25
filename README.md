@@ -232,4 +232,7 @@ In dieser Lektion wird gezeigt wie man Baseline Constraints hinzufügt. Weiteres
  Quiz!
 
  ## 3.4 - Fragments
- In Android 3.0 Honeycomb wurden Fragments eingeführt. Eine Activity enthält UI Fragments. Ein Fragment ist eine View innerhalb einer Activity. Man kann zwischen Activities oder auch Fragmenten innerhalb einer Activity navigieren. Die Activites werden im Back Stack gespeichert. Es gibt auch einen Fragment Back Stack (Fragment Manager).
+ In Android 3.0 Honeycomb wurden Fragments eingeführt. Eine Activity enthält UI Fragments. Ein Fragment ist eine View innerhalb einer Activity. Man kann zwischen Activities oder auch Fragmenten innerhalb einer Activity navigieren. Die Activites werden im Back Stack gespeichert. Es gibt auch einen Fragment Back Stack (Fragment Manager). Man kann beide kombinieren.
+
+ ## 3.5 - Quiz: Fragment Basics
+ Quiz!
