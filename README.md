@@ -238,4 +238,7 @@ In dieser Lektion wird gezeigt wie man Baseline Constraints hinzufügt. Weiteres
  Quiz!
 
 ## 3.6 - Exercise: Project Tour
-Im AndroidManifest.xml ist die Start Activity festgelegt. Im /res Ordner sind animationen, drawables und layouts, menues gespeichert.
+Im AndroidManifest.xml ist die Start Activity festgelegt. Im /res Ordner sind animationen, drawables und layouts, menues gespeichert. Weiteres bekommt man ein Template Projekt.
+
+## 3.7 - Exercise: Creating and Adding a Fragment
+In dieser Übung wird ein Fragment erstellt und zum main layout hinzugefügt.
