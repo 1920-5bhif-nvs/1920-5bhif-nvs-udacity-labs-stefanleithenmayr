@@ -262,3 +262,6 @@ binding.playButton.setOnClickListener (
 
 ## 3.10 - Principles of Navigation
 Die Prinzipien von 3.8 werden nochmals wiederholt.
+
+## 3.11 - Exercise: Conditional Navigation
+In dieser Lektion wird ein Spiel gewonnen und Spiel verloren Fragment hinzugefügt.
