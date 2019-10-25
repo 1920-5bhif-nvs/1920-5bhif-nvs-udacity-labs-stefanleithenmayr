@@ -310,3 +310,6 @@ In dieser Übung wird der Navigation Drawer hinzugefügt, welcher von links/rech
 
 ## 3.25 - Summary of Navigation
 Zusammenfassung dieser Lektion.
+
+## 3.26 - Quiz: How to Navigate
+Quiz!
