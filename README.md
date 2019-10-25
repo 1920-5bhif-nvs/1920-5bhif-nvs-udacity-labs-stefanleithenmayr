@@ -301,3 +301,6 @@ Nun geht es darum zum Beispiel die Kamera des Gerätes zu verwenden oder auf die
 Quiz!
 * Explizit Intents: Starten eine Aktivität basierend auf seinem Klassennamen
 * Implicit Intents: Starten eine Aktivität basierend auf den Parametern, wie Actions, Daten und Datentypen
+
+# 3.23 - Exercise: Adding Sharing with an Intent
+Nach dieser Übung/Lektion kann man nun das Ergebnis mit Hilfe von Sharing und Intents mit jemanden anderen teilen.
