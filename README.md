@@ -217,3 +217,6 @@ In dieser Lektion wird gezeigt wie man Baseline Constraints hinzufügt. Weiteres
  
  ## 2.29 - Exercise: Add Baseline Constraint and Button Chain
  Abschließend werden noch Buttons mit Event Handlern hinzugefügt, um die Boxes mit den Buttons einzufärben.
+
+ ## 2.30 - Where to Go Next?
+ Nun ist die Design - Lektion zu Ende.
