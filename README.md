@@ -208,3 +208,6 @@ In dieser Übung, werden nun zum Miniprojekt zwei Constraints hinzugefügt.
 
 ## 2.26 - Adding Three Aligned Boxes
 Nun werden drei Constraints und Chains hinzugefügt, mit 3 weiteren Textboxen.
+
+## 2.27 - Exercise: Add Aligned Boxes with Click Handlers
+In dieser Lektion werden zu den Buttons nun Klick Event Handler hinzugefügt. Wird einer dieser geklickt wird er farbig angezeigt.
