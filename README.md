@@ -224,3 +224,6 @@ In dieser Lektion wird gezeigt wie man Baseline Constraints hinzufügt. Weiteres
  # Lesson 3
  ## 3.1 - The Guide and the Traveler
  Einführungsvideo: Um was geht es in der Lektion.
+
+ ## 3.2 - Android Navigation Patterns
+ In diesem Video wird die App erklärt, wobei mehrere Views erstellt werden. Hauptsächlich geht es um Navigation.
