@@ -382,3 +382,6 @@ Interview!
 
 ## 4.12 - Exercise: Setup and Teardown
 Um zu verhindern das ein Timer weiterläuft obwohl die Activity nicht sichtbar ist, kann man die Lifecycle Methoden onStart bzw. onStop verwenden. Startet man etwas in onCreate sollte man es in onDestroy wieder zerstören.
+
+## 4.13 - Introduction to the Lifecycle Library
+Bis 2017 gab es nur die Lifecycle Methoden und dann wurde die Lifecycle Library veröffentlicht, mit der es leichter ist die erstellten Objekte auch wieder zu zerstören, sodass es nicht zu Bugs kommt.
