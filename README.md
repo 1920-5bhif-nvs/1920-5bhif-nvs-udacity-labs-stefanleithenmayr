@@ -327,3 +327,11 @@ Quiz!
 # Lesson 4
 ## 4.1 - The Case of the Missing Data
 In dieser Lesson wird der Android Activity Lifecycle erklärt. Das Problem ist nämlich aktuell, wenn man sein Handy dreht oder die App schließt, gehen die Daten verloren.
+
+## 4.2 - Why Track Activity State?
+### Activity Lifecycle
+![Activity LifeCycle](images/activity_lifecycle.png)
+
+### States of Activity
+![States of Activity](images/activity_lifecycle02.png)
+
