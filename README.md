@@ -406,3 +406,6 @@ Man soll das Gerät drehen und überprüfen welche Lifecycle Methoden aufgerufen
 ![Lifecycle Calls](images/lifecycle_calls03.png)
 
 Man sollte immer die super Methode aufrufen, ansonsten crasht die App.
+
+## 4.19 - The Future of Lifecycles
+Abschlussvideo!
