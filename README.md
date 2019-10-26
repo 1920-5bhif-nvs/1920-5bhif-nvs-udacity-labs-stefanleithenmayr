@@ -385,3 +385,8 @@ Um zu verhindern das ein Timer weiterläuft obwohl die Activity nicht sichtbar i
 
 ## 4.13 - Introduction to the Lifecycle Library
 Bis 2017 gab es nur die Lifecycle Methoden und dann wurde die Lifecycle Library veröffentlicht, mit der es leichter ist die erstellten Objekte auch wieder zu zerstören, sodass es nicht zu Bugs kommt.
+
+## 4.14 - Exercise: Lifecycle Observation
+LifecycleObserver: überwacht einen LifecycleOwner, wie z.B. eine Activity oder ein Fragment. Dieser Mechanismus beruht auf dem Observer Pattern. 
+`@OnLifecycleEvent(Lifecycle.Event.ON_START)` - Starten
+`@OnLifecycleEvent(Lifecycle.Event.ON_STOP)` - Beenden
