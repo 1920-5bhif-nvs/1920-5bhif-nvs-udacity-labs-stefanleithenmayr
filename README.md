@@ -371,3 +371,8 @@ Welche Lifecycle Methoden werden aufgerufen wenn man etwas teilen möchte.
 
 ## 4.9 - Activity Lifecycle States and Callbacks Summary
 Zusammenfassung der letzten Lektionen.
+
+## 4.10 - Lifecycle: Navigate Away
+Man sollt die App öffnen, dann denn Home Button klicken und zum Homescreen navigieren. Dann soll man zurück zur Activity gehen. Welche Methoden werden in welcher Reihenfolge aufgerufen?
+
+![Lifecycle Calls](images/lifecycle_calls02.png)

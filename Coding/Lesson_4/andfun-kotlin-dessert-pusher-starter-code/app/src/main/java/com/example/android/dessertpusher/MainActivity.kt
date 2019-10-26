@@ -179,4 +179,9 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
         super.onResume()
         Timber.i("onResume called")
     }
+
+    override fun onRestart() {
+        super.onRestart()
+        Timber.i("onRestart called")
+    }
 }
