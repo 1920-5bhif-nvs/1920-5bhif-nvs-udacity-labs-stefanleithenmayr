@@ -345,3 +345,8 @@ Lifecycle Methoden:
 * onPause
 * onStop
 * onRestart
+
+## 4.4. - Exercise: Introduction to Logging
+In dieser Übung wird simples Logging in Android erklärt:
+`Log.i("MainActivity", "onCreate called"` 
+Die Message wird in Android Studio im LogCat angezeigt.
