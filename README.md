@@ -322,3 +322,8 @@ In dieser Übungen werden noch ViewAnimations hinzugefügt. Alpha beschreibt dab
 
 ## 3.29 - Quiz: Animation Attributes
 Quiz!
+
+
+# Lesson 4
+## 4.1 - The Case of the Missing Data
+In dieser Lesson wird der Android Activity Lifecycle erklärt. Das Problem ist nämlich aktuell, wenn man sein Handy dreht oder die App schließt, gehen die Daten verloren.
