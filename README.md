@@ -368,3 +368,6 @@ Welche Lifecycle Methoden werden aufgerufen wenn man etwas teilen möchte.
 ## 4.8 - onCreate vs onStart
 * onCreate wird aufgerufen wenn die App erstellt wird
 * onStart wird aufgerufen wenn die App geöffnet wird (z.B. auch aus dem Hintergrund)
+
+## 4.9 - Activity Lifecycle States and Callbacks Summary
+Zusammenfassung der letzten Lektionen.
