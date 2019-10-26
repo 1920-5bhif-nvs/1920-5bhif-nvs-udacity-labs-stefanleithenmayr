@@ -399,3 +399,10 @@ Demo mit ADB
 
 ## 4.17 - Exercise: onSaveInstanceState
 onSaveInstanceState ist ein Callback, wo Daten gespeichert werden, falls eine Activity in den Hintergrund rückt. Das Bundle an Daten sollte unter 100 kB sein, was aber von Gerät zu Gerät unterschiedlich ist. Wenn das Bundle in OnCreate nicht null ist weiß man das die Activität schonmal erstellt wurde. Weiteres wird gezeigt wie ein Bundle wiederhergestellt werden kann.
+
+## 4.18 - Configuration Changes
+Man soll das Gerät drehen und überprüfen welche Lifecycle Methoden aufgerufen werden:
+
+![Lifecycle Calls](images/lifecycle_calls03.png)
+
+Man sollte immer die super Methode aufrufen, ansonsten crasht die App.
