@@ -355,3 +355,12 @@ Die Message wird in Android Studio im LogCat angezeigt.
 Die Logging library Timber wird vorgestellt.
 `implementation 'com.jakewharton.timber:timber:4.7.1'`im build.gradle File hinzufügen
 `Timber.i("onCreate called")`
+
+## 4.6 - Lifecycle: Open and Close
+In dieser Übung soll geloggt werden in welcher Reihenfolge die Lifecycle Methoden aufgerufen werden.
+![Lifecycle Calls](images/lifecycle_calls.png)
+
+## 4.7 - Lifecycle: Share dialog
+Welche Lifecycle Methoden werden aufgerufen wenn man etwas teilen möchte.
+
+![Lifecycle Calls](images/lifecycle_calls01.png)
