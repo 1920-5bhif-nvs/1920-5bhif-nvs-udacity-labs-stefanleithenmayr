@@ -364,3 +364,7 @@ In dieser Übung soll geloggt werden in welcher Reihenfolge die Lifecycle Method
 Welche Lifecycle Methoden werden aufgerufen wenn man etwas teilen möchte.
 
 ![Lifecycle Calls](images/lifecycle_calls01.png)
+
+## 4.8 - onCreate vs onStart
+* onCreate wird aufgerufen wenn die App erstellt wird
+* onStart wird aufgerufen wenn die App geöffnet wird (z.B. auch aus dem Hintergrund)

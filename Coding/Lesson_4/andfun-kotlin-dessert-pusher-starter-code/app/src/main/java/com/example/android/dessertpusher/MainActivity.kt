@@ -69,6 +69,7 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
 
         //Log.i("MainActivity", "onCreate called")
         Timber.i("onCreate called")
+        //dessertsSold = 0
 
         // Use Data Binding to get reference to the views
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
@@ -153,6 +154,7 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
     }
 
     override fun onStart() {
+        dessertsSold = 0
         super.onStart()
         //Log.i("MainActivity", "onStart called")
         Timber.i("onStart called")
