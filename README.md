@@ -393,3 +393,6 @@ LifecycleObserver: überwacht einen LifecycleOwner, wie z.B. eine Activity oder 
 
 ## 4.15 - Process Shutdown
 In dieser Lektion wird der Process Shutdown erklärt, welcher in 4.16 näher erläutert wird.
+
+## 4.16 - Process Shutdown Demo
+Demo mit ADB
