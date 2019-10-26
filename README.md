@@ -350,3 +350,8 @@ Lifecycle Methoden:
 In dieser Übung wird simples Logging in Android erklärt:
 `Log.i("MainActivity", "onCreate called"` 
 Die Message wird in Android Studio im LogCat angezeigt.
+
+## 4.5 - Exercise: The Application Class and Timber
+Die Logging library Timber wird vorgestellt.
+`implementation 'com.jakewharton.timber:timber:4.7.1'`im build.gradle File hinzufügen
+`Timber.i("onCreate called")`
