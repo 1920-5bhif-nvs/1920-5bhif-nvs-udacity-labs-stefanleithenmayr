@@ -376,3 +376,6 @@ Zusammenfassung der letzten Lektionen.
 Man sollt die App öffnen, dann denn Home Button klicken und zum Homescreen navigieren. Dann soll man zurück zur Activity gehen. Welche Methoden werden in welcher Reihenfolge aufgerufen?
 
 ![Lifecycle Calls](images/lifecycle_calls02.png)
+
+## 4.11 - Google Interview: Dianne Hackborn
+Interview!
