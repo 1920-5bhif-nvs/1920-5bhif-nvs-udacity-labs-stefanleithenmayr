@@ -335,3 +335,13 @@ In dieser Lesson wird der Android Activity Lifecycle erklärt. Das Problem ist n
 ### States of Activity
 ![States of Activity](images/activity_lifecycle02.png)
 
+## 4.3 - Exercise: Introduction to the Activity Lifecycle Diagram
+
+Lifecycle Methoden:
+* onCreate: Wird aufgerufen wenn die Activity schon erstellt wurde aber noch nicht sichtbar ist
+* onStart
+* onResume
+* onDestory
+* onPause
+* onStop
+* onRestart
