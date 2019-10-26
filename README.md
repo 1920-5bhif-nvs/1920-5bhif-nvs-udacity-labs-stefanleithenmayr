@@ -379,3 +379,6 @@ Man sollt die App öffnen, dann denn Home Button klicken und zum Homescreen navi
 
 ## 4.11 - Google Interview: Dianne Hackborn
 Interview!
+
+## 4.12 - Exercise: Setup and Teardown
+Um zu verhindern das ein Timer weiterläuft obwohl die Activity nicht sichtbar ist, kann man die Lifecycle Methoden onStart bzw. onStop verwenden. Startet man etwas in onCreate sollte man es in onDestroy wieder zerstören.
