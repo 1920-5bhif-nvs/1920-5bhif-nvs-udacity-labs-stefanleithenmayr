@@ -416,3 +416,6 @@ Einführungsvideo: Flexible Architekturgestaltung in Android
 
 ## 5.2 - Lesson Introduction
 In dieser Lektion lernen wir wie man eine Android App richtig strukturiert (ViewModel, LiveData, DataBinding).
+
+## 5.3 - Exercise: Tour of the App
+Die App wird vorgestellt. Prinzipiell muss man Wörter erraten.
