@@ -487,3 +487,18 @@ Das Problem mit den verlorenen Daten, wenn man den Bildschirm dreht, wurde mit d
 ## 5.13 - LiveData
 Man benötigt einen Weg um das Fragment, vom ViewModel aus zu verständigen, wenn ein Ereignis eintritt.
 LiveData ist eine observable Datenspeicherungsklasse.
+
+## 5.14 - Exercise: Add LiveData to GameViewModel
+Um nun ein Datenfeld Observable zu machen muss man seinen Datentyp folgendermaßen ändern:
+`var score = MutableLiveData<Int>()`
+
+Den Wert kann man folgendermaßen zuweisen:
+`score.value = 0`
+
+Mit Hilfe des Elvis Operator kann man einen Default Wert angeben:
+`viewModel.score.value ?: 0`
+
+Anmelden als Observer:
+````
+viewModel.score.observe(this, Observer{newScore-> binding.scoreText.text = newScore.toString()})
+````
