@@ -483,3 +483,7 @@ Das Problem mit den verlorenen Daten, wenn man den Bildschirm dreht, wurde mit d
 
 ![StoreageTypes](images/storeagetypes.png)
 **Quelle**: https://developer.android.com/topic/libraries/architecture/saving-states
+
+## 5.13 - LiveData
+Man benötigt einen Weg um das Fragment, vom ViewModel aus zu verständigen, wenn ein Ereignis eintritt.
+LiveData ist eine observable Datenspeicherungsklasse.
