@@ -422,3 +422,7 @@ Die App wird vorgestellt. Prinzipiell muss man Wörter erraten.
 
 ## 5.4 - Where the App Falls Short
 Nun herrscht wieder folgendes Problem. Falls man das Gerät umdreht (waagrecht hält), gehen die Daten verloren (aktueller Spielstand, etc.). Man könnte es wieder über die Methode onSaveInstanceState handeln. In diesem Kurs wird aber eine weitere Methode vorgestellt.
+
+## 5.5 - What is Architecture
+Die Daten überleben den Lebenszyklus von einem Fragment nicht, wenn Sie nicht woanders abgespeichert werden. onSaveInstance Bundels haben auch Probleme. Man muss relativ viel extra Code implementieren um die Daten wieder herzustellen. Weiteres kann man nur sehr wenig Daten abspeichern.
+**Application Architecture**: Der Entwurf von Applikationsklassen und die Beziehungen zwischen den Klassen (bessere Übersicht). Es gibt keinen einheitlichen Weg für die Architektur. Es kommt immer auf den Anwendungsfall an. In dieser Lektion wird das MVVM (Model - View - View Model) erklärt.
