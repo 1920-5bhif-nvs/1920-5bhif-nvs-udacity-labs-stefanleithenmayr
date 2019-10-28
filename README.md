@@ -477,3 +477,9 @@ Vorteile von einer guten Architektur:
 Das MVVM Pattern, ist es ein unidirektionales Pattern. Das Fragment kennt sein ViewModel, aber das ViewModel sein Fragment nicht. Es ist dadurch besser testbar. Es gibt zwei Arten von Test: 
 * androidTest - Ordner (Emulator wird zum Testen benötigt, große/komplexe Tests)
 * test - Ordner (kein Emulator wird benötigt, eher kleinere Tests)
+
+## 5.12 - The Power and Limits of the ViewModel
+Das Problem mit den verlorenen Daten, wenn man den Bildschirm dreht, wurde mit dem ViewModel behoben. Die Daten gehen nun, nurmehr verloren, wenn das OS (Android) entscheidet, Resourcen freizugeben und die App zu schließen. Die Daten sind dann auch weg.
+
+![StoreageTypes](images/storeagetypes.png)
+**Quelle**: https://developer.android.com/topic/libraries/architecture/saving-states
