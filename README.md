@@ -410,5 +410,9 @@ Man sollte immer die super Methode aufrufen, ansonsten crasht die App.
 ## 4.19 - The Future of Lifecycles
 Abschlussvideo!
 
+# Lesson 5
 ## 5.1 - Architecting on the Fly
 Einführungsvideo: Flexible Architekturgestaltung in Android
+
+## 5.2 - Lesson Introduction
+In dieser Lektion lernen wir wie man eine Android App richtig strukturiert (ViewModel, LiveData, DataBinding).
