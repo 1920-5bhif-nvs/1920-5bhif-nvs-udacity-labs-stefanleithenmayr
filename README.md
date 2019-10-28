@@ -432,3 +432,6 @@ Seperation of Concerns (Trennung nach Besorgnis): Aufteilen des Codes in Klassen
 * UI - Controller: Activties and Fragments (UI - bezogene Dinge: UserInput, User Events etc.), Business Logik sollte nicht darinn vorkommen (Berechnungen, etc.)
 * ViewModel: Hält die Daten für die UI - Controller und bereitet sie auf das visualisieren her
 * LiveData: Bringen die Daten vom ViewModel in die UI
+
+## 5.7 - ViewModel
+Ein ViewModel ist eine abstrakte Klasse, welche die UI Daten sammelt. Diese Daten überleben Konfigurationsänderung (Gerät drehen, etc.). Es gibt keine größenLimitierung, wie z.B. bei onSaveInstanceState.
