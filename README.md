@@ -462,3 +462,6 @@ class GameViewModel : ViewModel(){
     }
 }
 ````
+
+## 5.9 - What Belongs in the GameViewModel?
+Quiz!
