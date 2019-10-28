@@ -467,4 +467,13 @@ class GameViewModel : ViewModel(){
 Quiz!
 
 ## 5.10 - Exercise: Populate the GameViewModel
-In dieser Übung werden die Variablen und Logikfunktionen ins ViewModel verlagert.
+In dieser Übung werden die Variablen und Logikfunktionen ins ViewModel verlagert. Die Method isGameFinish aus dem Fragment wurde noch nicht entfernt, da diese Navigationsteile enthält. Aber es wird später im Kurs noch erklärt.
+
+## 5.11 - The Benefits of a Good Architecture
+Vorteile von einer guten Architektur:
+* Organisierter (besser zu handhaben, wenn man im Team arbeitet, etc.)
+* Besser und einfacher Debugbar
+
+Das MVVM Pattern, ist es ein unidirektionales Pattern. Das Fragment kennt sein ViewModel, aber das ViewModel sein Fragment nicht. Es ist dadurch besser testbar. Es gibt zwei Arten von Test: 
+* androidTest - Ordner (Emulator wird zum Testen benötigt, große/komplexe Tests)
+* test - Ordner (kein Emulator wird benötigt, eher kleinere Tests)
