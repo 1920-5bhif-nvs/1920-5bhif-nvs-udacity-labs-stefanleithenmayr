@@ -409,3 +409,6 @@ Man sollte immer die super Methode aufrufen, ansonsten crasht die App.
 
 ## 4.19 - The Future of Lifecycles
 Abschlussvideo!
+
+## 5.1 - Architecting on the Fly
+Einführungsvideo: Flexible Architekturgestaltung in Android
