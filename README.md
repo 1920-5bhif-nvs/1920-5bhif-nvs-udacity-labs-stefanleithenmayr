@@ -465,3 +465,6 @@ class GameViewModel : ViewModel(){
 
 ## 5.9 - What Belongs in the GameViewModel?
 Quiz!
+
+## 5.10 - Exercise: Populate the GameViewModel
+In dieser Übung werden die Variablen und Logikfunktionen ins ViewModel verlagert.
