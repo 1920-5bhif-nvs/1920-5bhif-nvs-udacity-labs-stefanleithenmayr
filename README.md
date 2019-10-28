@@ -419,3 +419,6 @@ In dieser Lektion lernen wir wie man eine Android App richtig strukturiert (View
 
 ## 5.3 - Exercise: Tour of the App
 Die App wird vorgestellt. Prinzipiell muss man Wörter erraten.
+
+## 5.4 - Where the App Falls Short
+Nun herrscht wieder folgendes Problem. Falls man das Gerät umdreht (waagrecht hält), gehen die Daten verloren (aktueller Spielstand, etc.). Man könnte es wieder über die Methode onSaveInstanceState handeln. In diesem Kurs wird aber eine weitere Methode vorgestellt.
