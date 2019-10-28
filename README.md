@@ -502,3 +502,6 @@ Anmelden als Observer:
 ````
 viewModel.score.observe(this, Observer{newScore-> binding.scoreText.text = newScore.toString()})
 ````
+
+## 5.15 - Lifecycle Awareness
+LiveData weiß in welche Lifecycle Zustand seine Observer sind. LiveData verwendet diese Information um intelligent zu kommunizieren. LiveData benachrichtigt das Fragment nur wenn das Fragment ab Bildschirm zu sehen ist. Wird das Fragment destroyed, wird die Verbindung selbständig aufgelöst. 
