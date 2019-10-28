@@ -426,3 +426,9 @@ Nun herrscht wieder folgendes Problem. Falls man das Gerät umdreht (waagrecht h
 ## 5.5 - What is Architecture
 Die Daten überleben den Lebenszyklus von einem Fragment nicht, wenn Sie nicht woanders abgespeichert werden. onSaveInstance Bundels haben auch Probleme. Man muss relativ viel extra Code implementieren um die Daten wieder herzustellen. Weiteres kann man nur sehr wenig Daten abspeichern.
 **Application Architecture**: Der Entwurf von Applikationsklassen und die Beziehungen zwischen den Klassen (bessere Übersicht). Es gibt keinen einheitlichen Weg für die Architektur. Es kommt immer auf den Anwendungsfall an. In dieser Lektion wird das MVVM (Model - View - View Model) erklärt.
+
+## 5.6 - Our App Architecture
+Seperation of Concerns (Trennung nach Besorgnis): Aufteilen des Codes in Klassen, jede mit einem seperaten, gut definierten Verantwortlichkeiten. 
+* UI - Controller: Activties and Fragments (UI - bezogene Dinge: UserInput, User Events etc.), Business Logik sollte nicht darinn vorkommen (Berechnungen, etc.)
+* ViewModel: Hält die Daten für die UI - Controller und bereitet sie auf das visualisieren her
+* LiveData: Bringen die Daten vom ViewModel in die UI
