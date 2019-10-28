@@ -435,3 +435,30 @@ Seperation of Concerns (Trennung nach Besorgnis): Aufteilen des Codes in Klassen
 
 ## 5.7 - ViewModel
 Ein ViewModel ist eine abstrakte Klasse, welche die UI Daten sammelt. Diese Daten überleben Konfigurationsänderung (Gerät drehen, etc.). Es gibt keine größenLimitierung, wie z.B. bei onSaveInstanceState.
+
+## 5.8 - Exercise: Create the GameViewModel
+In dieser Lektion wird ein ViewModel für das GameView Fragment erstellt.
+Dazu muss `implementation 'androidx.lifecycle:lifecycle-extensions:2.0.0'` im build.gradle hinzugefügt werden. Weiteres muss von ViewModel abgeleitet werden, sowie das ViewModel mit dem Fragment verbunden werden.
+
+Instanzierung eines ViewModels, erstellt nur beim ersten Mal ein neues ViewModel:
+`viewModel = ViewModelProviders.of(this).get(GameViewModel::class.java)`
+
+ViewModel Basic - Klasse: 
+
+````
+package com.example.android.guesstheword.screens.game
+
+import android.util.Log
+import androidx.lifecycle.ViewModel
+
+class GameViewModel : ViewModel(){
+    init{
+        Log.i("GameViewModel", "GameViewModel created!")
+    }
+
+    override fun onCleared() {
+        super.onCleared()
+        Log.i("GameViewModel", "GameViewModel destroyed!")
+    }
+}
+````
