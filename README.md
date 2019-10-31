@@ -534,3 +534,6 @@ private val _eventGameFinish = MutableLiveData<Boolean>()
 
 ## 5.19 - Google Interview: Yigit Boyar
 Interview!
+
+## 5.20 - Adding a Timer
+Nun wird ein Timer implementiert, als Countdown. Dieser soll im GameViewModel implementiert werden.
