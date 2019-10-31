@@ -505,3 +505,15 @@ viewModel.score.observe(this, Observer{newScore-> binding.scoreText.text = newSc
 
 ## 5.15 - Lifecycle Awareness
 LiveData weiß in welche Lifecycle Zustand seine Observer sind. LiveData verwendet diese Information um intelligent zu kommunizieren. LiveData benachrichtigt das Fragment nur wenn das Fragment ab Bildschirm zu sehen ist. Wird das Fragment destroyed, wird die Verbindung selbständig aufgelöst. 
+
+## 5.16 - Exercise: Add LiveData Encapsulation to GameViewModel
+In dieser Lektion wird erklärt wie man Fields (Variablen) kapseln kann, sodass nicht jede Klasse/Objekt Zugriff darauf hat.
+`MutableLiveData` darf auch bearbeitet werden, `LiveData` darf nicht bearbeitet werden!
+
+Private Setter and public Getter:
+````
+private var _score = MutableLiveData<Int>()
+
+val score : LiveData<Int>
+    get() = _score
+````
