@@ -517,3 +517,8 @@ private var _score = MutableLiveData<Int>()
 val score : LiveData<Int>
     get() = _score
 ````
+
+## 5.17 - Event vs. State
+Das Problem das wir wissen wenn das Spiel vorbei ist, ist immer noch nicht gelöst. Das Fragment muss benachrichtigt werden. 
+* **State:** Ist ein Zustand, z.B. Button ist grün, etc.
+* **Event:** Ist ein Ereigniss, z.B. Button wurde geklickt, etc.
