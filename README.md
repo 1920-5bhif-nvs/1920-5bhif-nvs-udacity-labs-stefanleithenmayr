@@ -531,3 +531,6 @@ private val _eventGameFinish = MutableLiveData<Boolean>()
     val eventGameFinish: LiveData<Boolean>
         get() = _eventGameFinish
 ````
+
+## 5.19 - Google Interview: Yigit Boyar
+Interview!
