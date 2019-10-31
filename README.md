@@ -522,3 +522,12 @@ val score : LiveData<Int>
 Das Problem das wir wissen wenn das Spiel vorbei ist, ist immer noch nicht gelöst. Das Fragment muss benachrichtigt werden. 
 * **State:** Ist ein Zustand, z.B. Button ist grün, etc.
 * **Event:** Ist ein Ereigniss, z.B. Button wurde geklickt, etc.
+
+## 5.18 - Exercise: Add End Game Event
+In dieser Übung folgt die Implementierung. Die Lösung ist ein Event. Bei diesem Event kann man einen Observer anmelden.
+
+````
+private val _eventGameFinish = MutableLiveData<Boolean>()
+    val eventGameFinish: LiveData<Boolean>
+        get() = _eventGameFinish
+````
