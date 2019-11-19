@@ -554,3 +554,6 @@ class ScoreViewModelFactory(private val finalScore: Int) : ViewModelProvider.Fac
     }
 }
 ````
+
+## 5.23 - Exercise: Add ViewModel to Data Binding
+Wenn sich Daten im ViewModel verändern, werden Sie and den UI Controller (Activity oder Fragment) weitergegeben. Dieser aktualisiert wiederum die View. Umgekehrt sieht es aus, wenn ein Button auf der View gedrückt wird. Dabei benachrichtigt die View den UI - Controller und dieser wiederum das ViewModel.
