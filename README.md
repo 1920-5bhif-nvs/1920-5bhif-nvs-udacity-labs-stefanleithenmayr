@@ -540,3 +540,17 @@ Nun wird ein Timer implementiert, als Countdown. Dieser soll im GameViewModel im
 
 ## 5.21 - Exercise: Add CountDownTimer
 In dieser Übung wird nun der Timer mit Hilfe der CountDownTimer Klasse von Android implementiert.
+
+## 5.22 - Exercise: Add a ViewModelFactory
+Eine ViewModel Factory ist eine Klasse, welche weiß, wie man ViewModels erstellt.
+
+````
+class ScoreViewModelFactory(private val finalScore: Int) : ViewModelProvider.Factory {
+    override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+        if (modelClass.isAssignableFrom(ScoreViewModel::class.java)) {
+            return ScoreViewModel(finalScore) as T
+        }
+        throw IllegalArgumentException("Unknown ViewModel class")
+    }
+}
+````
