@@ -537,3 +537,6 @@ Interview!
 
 ## 5.20 - Adding a Timer
 Nun wird ein Timer implementiert, als Countdown. Dieser soll im GameViewModel implementiert werden.
+
+## 5.21 - Exercise: Add CountDownTimer
+In dieser Übung wird nun der Timer mit Hilfe der CountDownTimer Klasse von Android implementiert.
