@@ -557,3 +557,14 @@ class ScoreViewModelFactory(private val finalScore: Int) : ViewModelProvider.Fac
 
 ## 5.23 - Exercise: Add ViewModel to Data Binding
 Wenn sich Daten im ViewModel verändern, werden Sie and den UI Controller (Activity oder Fragment) weitergegeben. Dieser aktualisiert wiederum die View. Umgekehrt sieht es aus, wenn ein Button auf der View gedrückt wird. Dabei benachrichtigt die View den UI - Controller und dieser wiederum das ViewModel.
+
+## 5.24 - Exercise: Add LiveData Data Binding
+Nun wird das Projekt ein wenig modifiziert, indem das ViewModel bzw. LiveData direkt mit der View kommuniziert.
+Weiteres können String - Ressourcen angegeben werden im "strings.xml" - File.
+````
+<string name="quote_format">\"%s\"</string>
+````
+XML - Datei (Verwendung):
+````
+android:text="@{@string/quote_format(gameViewModel.word)}"
+````
