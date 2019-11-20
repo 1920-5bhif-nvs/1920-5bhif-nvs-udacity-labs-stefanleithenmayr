@@ -579,3 +579,6 @@ val currentTimeString = Transformations.map(currentTime, {time ->
 
 ## 5.26 - Optional Exercise: Adding the Buzzer
 Vibration optional hinzufügen.
+
+## 5.27 - Recap of Architecture and Lifecycles
+Abschlussvideo
