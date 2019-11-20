@@ -576,3 +576,6 @@ val currentTimeString = Transformations.map(currentTime, {time ->
     DateUtils.formatElapsedTime(time)
 })
 ````
+
+## 5.26 - Optional Exercise: Adding the Buzzer
+Vibration optional hinzufügen.
