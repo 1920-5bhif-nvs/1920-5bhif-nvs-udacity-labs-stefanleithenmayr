@@ -42,10 +42,6 @@ class GameFragment : Fragment() {
         binding.lifecycleOwner = this
 
         /** Setting up LiveData observation relationship **/
-        viewModel.currentTime.observe(this, Observer { newTime ->
-            binding.timerText.text = DateUtils.formatElapsedTime(newTime)
-
-        })
 
         // Sets up event listening to navigate the player when the game is finished
         viewModel.eventGameFinish.observe(this, Observer { isFinished ->

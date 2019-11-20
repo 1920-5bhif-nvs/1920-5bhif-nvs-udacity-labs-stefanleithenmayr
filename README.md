@@ -568,3 +568,11 @@ XML - Datei (Verwendung):
 ````
 android:text="@{@string/quote_format(gameViewModel.word)}"
 ````
+
+## 5.25 - Exercise: LiveData Map Transformation
+Nun wird LiveData A (Long Time) zu einem String und somit LiveData B konvertiert.
+````
+val currentTimeString = Transformations.map(currentTime, {time ->
+    DateUtils.formatElapsedTime(time)
+})
+````
