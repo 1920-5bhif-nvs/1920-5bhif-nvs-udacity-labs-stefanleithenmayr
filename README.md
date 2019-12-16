@@ -587,5 +587,8 @@ Abschlussvideo
 ## 6.1 - Wake Up, Aleks!
 Einführungsvideo!
 
-## 6.2 Introduction
+## 6.2 - Introduction
 In dieser Lektion wird eine App erstellt, mit welcher die Schlafdauer und Qualität aufgezeichnet und abgespeichert werden kann. Dabei gibt es einen UI - Controller und ein ViewModel mit LiveData und eine Datenbank Klasse. Weiteres wird in dieser Lektion erklärt, wie man mit DAO's (Database Access Object) arbeitet und mit SQL Queries, Daten aus der Datenbank abfragt.
+
+## 6.3 - SQLite Primer
+In dieser Lektion werden die Basics von SQL erklärt, welche aber alle für mich klar sind, sodass ich diese nicht weiter ausführen werden.
