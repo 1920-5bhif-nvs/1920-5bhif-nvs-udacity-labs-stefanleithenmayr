@@ -582,3 +582,7 @@ Vibration optional hinzufügen.
 
 ## 5.27 - Recap of Architecture and Lifecycles
 Abschlussvideo
+
+# Lesson 6: App Architecture (Persistence)
+## Wake Up, Aleks!
+Einführungsvideo!
