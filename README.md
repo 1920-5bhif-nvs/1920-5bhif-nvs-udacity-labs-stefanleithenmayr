@@ -676,3 +676,6 @@ In dieser Lektion wird die Anwendung visualisiert.
 
 ## 6.12 - Adding A ViewModel
 In dieser Lektion wird ein ViewModel hinzugefügt, für das Button klicken etc.
+
+## 6.13 - Exercise: Adding a ViewModel
+In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
