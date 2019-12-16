@@ -596,3 +596,27 @@ In dieser Lektion werden die Basics von SQL erklärt, welche aber alle für mich
 ## 6.4 - Designing Entities
 In dieser Lektion wird erklärt, was eine Entität ist und was eine Query ist. Eine Entität ist ein Objekt welches in der Datenbank gespeichert wird. Jede Entität definiert eine Tabelle in der Datenbank. Eine Query hingegen ist, dass man Daten von einer Datenbank anfragt, oder das man eine Anfrage schickt das irgendwas mit den Daten passiert. (Verändern, Aggregieren, etc.)
 
+## 6.5 - Exercise: Creating the SleepNight Entity
+In dieser Lektion wird nun eine Entität in Android erstellt. Diese Entitätsklasse hat eine große Ähnlichkeit mit Java Entitäten.
+
+Beispiel:
+````
+import androidx.room.ColumnInfo
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "daily_sleep_quality_table")
+data class SleepNight(
+
+        @PrimaryKey(autoGenerate = true)
+        var nightId: Long = 0L,
+
+        @ColumnInfo(name="start_time_milli")
+        val startTimeMilli: Long =  System.currentTimeMillis(),
+
+        @ColumnInfo(name="end_time_milli")
+        var endTimeMilli: Long = startTimeMilli,
+
+        var sleepQuality: Int = -1
+)
+````
