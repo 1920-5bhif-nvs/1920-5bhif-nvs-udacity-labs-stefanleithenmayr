@@ -620,3 +620,6 @@ data class SleepNight(
         var sleepQuality: Int = -1
 )
 ````
+
+## 6.6 - Data Access Object (DAO)
+Es gibt in DAO Klassen verschiedene Annotationen wie z.B. @Insert, @Delete, @Update, @Query. Der Compiler checkt SQL Queries, ob Syntax Errors vorliegen.
