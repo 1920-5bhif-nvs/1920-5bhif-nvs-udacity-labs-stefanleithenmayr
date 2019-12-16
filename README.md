@@ -661,3 +661,6 @@ interface SleepDatabaseDao {
     fun getTonight(): SleepNight?
 }
 ````
+
+## 6.8 - Creating a Room Database
+In dieser Lektion wird erklärt wie nun die Room Database erstellt wird.
