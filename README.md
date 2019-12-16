@@ -667,3 +667,6 @@ In dieser Lektion wird erklärt wie nun die Room Database erstellt wird.
 
 ## 6.9 - Exercise: Creating a Room Database
 In dieser Lektion wird nun eine Datenbankklasse implementiert, wo ein Datenbank Companion Objekt angelegt wird. Siehe SleepDatabase.kt Datei.
+
+## 6.10 - Testing the Room Database
+In dieser Lektion werden nun Tests für die Datenbank erstellt.
