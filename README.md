@@ -673,3 +673,6 @@ In dieser Lektion werden nun Tests für die Datenbank erstellt.
 
 ## 6.11 - Displaying Sleep Data
 In dieser Lektion wird die Anwendung visualisiert.
+
+## 6.12 - Adding A ViewModel
+In dieser Lektion wird ein ViewModel hinzugefügt, für das Button klicken etc.
