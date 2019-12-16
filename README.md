@@ -584,5 +584,8 @@ Vibration optional hinzufügen.
 Abschlussvideo
 
 # Lesson 6: App Architecture (Persistence)
-## Wake Up, Aleks!
+## 6.1 - Wake Up, Aleks!
 Einführungsvideo!
+
+## 6.2 Introduction
+In dieser Lektion wird eine App erstellt, mit welcher die Schlafdauer und Qualität aufgezeichnet und abgespeichert werden kann. Dabei gibt es einen UI - Controller und ein ViewModel mit LiveData und eine Datenbank Klasse. Weiteres wird in dieser Lektion erklärt, wie man mit DAO's (Database Access Object) arbeitet und mit SQL Queries, Daten aus der Datenbank abfragt.
