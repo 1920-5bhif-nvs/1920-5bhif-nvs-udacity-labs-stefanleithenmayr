@@ -670,3 +670,6 @@ In dieser Lektion wird nun eine Datenbankklasse implementiert, wo ein Datenbank 
 
 ## 6.10 - Testing the Room Database
 In dieser Lektion werden nun Tests für die Datenbank erstellt.
+
+## 6.11 - Displaying Sleep Data
+In dieser Lektion wird die Anwendung visualisiert.
