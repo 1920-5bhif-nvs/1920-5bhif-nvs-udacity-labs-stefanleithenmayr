@@ -701,3 +701,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.9 - Exercise: Refactor onBindViewHolder
 ## 7.10 - Exercise: Refactor onCreateViewHolder
 ## 7.11 - Improving Data Refresh
+## 7.12 - Exercise: Refresh Data with DiffUtil
