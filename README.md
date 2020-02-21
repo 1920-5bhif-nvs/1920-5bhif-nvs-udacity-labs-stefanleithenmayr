@@ -696,3 +696,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.4 - Exercise: Add a RecyclerView
 ## 7.5 - Exercise: Display SleepQuality Data
 ## 7.6 - Exercise: Recycling ViewHolders
+## 7.7 - Displaying Sleep Quality
