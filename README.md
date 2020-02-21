@@ -725,3 +725,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 8.5 - App Walkthrough and Starter Code
 ## 8.6 - Exercise: Connecting to the Internet
 ## 8.7 - Permissions
+## 8.8 - Exercise: Parsing the JSON Response
