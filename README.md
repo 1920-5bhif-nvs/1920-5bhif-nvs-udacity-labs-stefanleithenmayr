@@ -748,3 +748,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 9.9 - Exercise: Refactor the VideoDao
 ## 9.10 - Exercise: Add the VideosDatabase
 ## 9.11 - Room Review
+## 9.12 - Googler Interview: Sumir Kataria
