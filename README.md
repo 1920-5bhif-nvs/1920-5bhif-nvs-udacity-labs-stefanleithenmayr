@@ -719,3 +719,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 
 # Lesson 8: Connect to the Internet
 ## 8.1 - Greetings Earth Friends!
+## 8.2 - Introduction
