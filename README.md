@@ -751,3 +751,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 9.12 - Googler Interview: Sumir Kataria
 ## 9.13 - Using a Room
 ## 9.14 - Exercise: Build a Repository
+## 9.15 - Exercise: Use the Repository
