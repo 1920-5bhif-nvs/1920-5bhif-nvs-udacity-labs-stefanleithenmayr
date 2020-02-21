@@ -733,3 +733,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 8.13 - Exercise: Error Handling with RecyclerView
 ## 8.14 - Parcel and Parcelables
 ## 8.15 - Exercise: Add the Detail Screen
+## 8.16 - Exercise: Add a Filter
