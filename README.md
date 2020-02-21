@@ -746,3 +746,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 9.7 - Exercise: Add a DatabaseVideo Entity
 ## 9.8 - Exercise: Add the VideoDao
 ## 9.9 - Exercise: Refactor the VideoDao
+## 9.10 - Exercise: Add the VideosDatabase
