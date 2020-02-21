@@ -731,3 +731,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 8.11 - Exercise: Display an Internet Image
 ## 8.12 - Exercise: Display Images in a Grid
 ## 8.13 - Exercise: Error Handling with RecyclerView
+## 8.14 - Parcel and Parcelables
