@@ -709,3 +709,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.17 - Using GridLayout
 ## 7.18 - Exercise: Change LinearLayout to GridLayout
 ## 7.19 - Interacting with List Items
+## 7.20 - Exercise: Implement a Click Listener
