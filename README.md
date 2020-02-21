@@ -722,3 +722,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 8.2 - Introduction
 ## 8.3 - RESTful Services
 ## 8.4 - Libraries
+## 8.5 - App Walkthrough and Starter Code
