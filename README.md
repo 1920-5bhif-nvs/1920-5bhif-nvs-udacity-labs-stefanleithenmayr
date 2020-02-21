@@ -707,3 +707,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.15 - Finishing Your First RecyclerView
 ## 7.16 - Googler Interview: Romain Guy and Chet Haase
 ## 7.17 - Using GridLayout
+## 7.18 - Exercise: Change LinearLayout to GridLayout
