@@ -712,3 +712,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.20 - Exercise: Implement a Click Listener
 ## 7.21 - Exercise: Navigate on Click
 ## 7.22 - Adding Headers to the RecyclerView
+## 7.23 - Extra Credit: Add a List Header
