@@ -691,3 +691,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 
 # Lesson 7: RecyclerView
 ## 7.1 - Recycle Woman
+## 7.2 - Introduction
