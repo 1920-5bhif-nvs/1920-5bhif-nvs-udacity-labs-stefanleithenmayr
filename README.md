@@ -702,3 +702,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.10 - Exercise: Refactor onCreateViewHolder
 ## 7.11 - Improving Data Refresh
 ## 7.12 - Exercise: Refresh Data with DiffUtil
+## 7.13 - Exercise: Add DataBinding to the Adapter
