@@ -676,7 +676,7 @@ In dieser Lektion wird die Anwendung visualisiert.
 
 ## 6.12 - Adding A ViewModel
 In dieser Lektion wird ein ViewModel hinzugefügt, für das Button klicken etc.
-
+0
 ## 6.13 - Exercise: Adding a ViewModel
 In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 
@@ -705,3 +705,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.13 - Exercise: Add DataBinding to the Adapter
 ## 7.14 - Exercise: Add Binding Adapters
 ## 7.15 - Finishing Your First RecyclerView
+## 7.16 - Googler Interview: Romain Guy and Chet Haase
