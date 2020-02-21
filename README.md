@@ -716,3 +716,6 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.24 - Headers in GridLayout
 ## 7.25 - Extra Credit: Add a Header to the GridLayout
 ## 7.26 - Summary
+
+# Lesson 8: Connect to the Internet
+## 8.1 - Greetings Earth Friends!
