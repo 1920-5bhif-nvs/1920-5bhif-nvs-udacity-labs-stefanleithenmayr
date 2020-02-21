@@ -728,3 +728,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 8.8 - Exercise: Parsing the JSON Response
 ## 8.9 - Exercise: Coroutines and Deferred
 ## 8.10 - Googler Interview: Jake Wharton
+## 8.11 - Exercise: Display an Internet Image
