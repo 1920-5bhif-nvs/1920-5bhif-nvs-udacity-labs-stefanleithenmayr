@@ -715,3 +715,4 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 7.23 - Extra Credit: Add a List Header
 ## 7.24 - Headers in GridLayout
 ## 7.25 - Extra Credit: Add a Header to the GridLayout
+## 7.26 - Summary
