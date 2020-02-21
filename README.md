@@ -688,3 +688,6 @@ In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 ## 6.19 - Transformation Maps
 ## 6.20 - Exercise: Button States and SnackBar
 ## 6.21 - Where to go next?
+
+# Lesson 7: RecyclerView
+## 7.1 - Recycle Woman
