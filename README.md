@@ -680,7 +680,8 @@ In dieser Lektion wird ein ViewModel hinzugefügt, für das Button klicken etc.
 ## 6.13 - Exercise: Adding a ViewModel
 In dieser Lektion wird es dann auch bei unserem Projekt hinzugefügt.
 
-## 6.15 - Multithreading and Coroutines
-## 6.16 - Exercise: Coroutines for Long-running Operations
-## 6.17 - Googler Interview: Florina Muntenescu
-## 6.18 - Navigation and Sleep Quality
+## 6.14 - Multithreading and Coroutines
+## 6.15 - Exercise: Coroutines for Long-running Operations
+## 6.16 - Googler Interview: Florina Muntenescu
+## 6.17 - Navigation and Sleep Quality
+## 6.18 - Exercise: Recording Sleep Quality
